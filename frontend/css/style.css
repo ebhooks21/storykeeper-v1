@@ -23,6 +23,16 @@ div.sidebar {
 	div.sidebar div.titlearea span {
 		font-size: calc(1.525rem + 1vw);
 	}
+		div.sidebar div.sidebar-nav ul.sidebar-nav-list {
+			list-style: none;	
+			margin: .5% 0;
+			padding: 0 0;
+		}
+			div.sidebar div.sidebar-nav ul.sidebar-nav-list li:hover {
+				background-color: white;
+				color: black;
+				cursor: pointer;
+			}
 
 div.mainview {
 	display: block;
