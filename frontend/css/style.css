@@ -21,6 +21,7 @@ div.sidebar {
 		width: 100%;
 	}
 	div.sidebar div.titlearea span {
+		font-size: calc(1.525rem + 1vw);
 	}
 
 div.mainview {
